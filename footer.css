@@ -1,0 +1,36 @@
+.footer {
+    background-color: #011f53;
+    color: white;
+    padding: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
+    position: fixed;
+    bottom: 0;
+    left: 279px;
+    right: 50px;
+    width: 79%;
+  }
+  
+  .footer ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .footer ul li {
+    margin: 0 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .footer ul li a {
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+  }
+  
+  .footer ul li a:hover {
+    text-decoration: underline;
+  }
+  

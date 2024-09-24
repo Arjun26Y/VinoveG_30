@@ -1,0 +1,28 @@
+.header {
+    height: 90px;
+    background-color: rgb(1, 31, 83);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
+    margin: 10px;
+    margin-left: 2px;
+  }
+  
+  .header-button {
+    background-color: #ffffff;
+    border: none;
+    color: rgb(1, 31, 83);
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgb(1, 31, 83);
+  }
+  
+  .header-button:hover {
+    background-color: #dcdcdc;
+  }
+  
